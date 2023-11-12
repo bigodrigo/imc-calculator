@@ -9,7 +9,7 @@
 </p>
 
 O projeto está acessível em:
-[https://bigodrigo.github.io/landing-page/](https://bigodrigo.github.io/imc-calculator/)
+[https://bigodrigo.github.io/imc-calculator/](https://bigodrigo.github.io/imc-calculator/)
 
 ## 🚀 Technologies
 
